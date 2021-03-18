@@ -4,3 +4,4 @@ this is one more file
 this is by dev 1 
 this is one more file 
 added by other dev 
+this is the assed for fast-forword merging
