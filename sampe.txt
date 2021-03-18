@@ -3,4 +3,5 @@ this is new added for testing ssh connection
 this is one more file
 this is by dev 1 
 this is one more file 
-added by other dev 
+added by other dev
+anther merge type  
